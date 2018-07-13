@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sp_container">
+    <sp_container action="INSERT_OR_UPDATE">
+        <background_color/>
+        <background_image/>
+        <background_style>default</background_style>
+        <bootstrap_alt>false</bootstrap_alt>
+        <class_name/>
+        <container_class_name/>
+        <name>CMDB Explorer Page - Container 1</name>
+        <order>1</order>
+        <sp_page display_value="cmdb_explorer_page">0e99391d13539780ccd656e12244b00a</sp_page>
+        <subheader>false</subheader>
+        <sys_class_name>sp_container</sys_class_name>
+        <sys_created_by>aleck.lin</sys_created_by>
+        <sys_created_on>2018-07-13 17:53:23</sys_created_on>
+        <sys_id>37b93d1d13539780ccd656e12244b060</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CMDB Explorer Page - Container 1</sys_name>
+        <sys_package display_value="CMDB Explorer" source="x_snc_cmdb_explore">faf7395913539780ccd656e12244b092</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CMDB Explorer">faf7395913539780ccd656e12244b092</sys_scope>
+        <sys_update_name>sp_container_37b93d1d13539780ccd656e12244b060</sys_update_name>
+        <sys_updated_by>aleck.lin</sys_updated_by>
+        <sys_updated_on>2018-07-13 17:53:23</sys_updated_on>
+        <title/>
+        <width>container</width>
+    </sp_container>
+</record_update>
